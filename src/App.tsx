@@ -86,6 +86,8 @@ function App() {
     "Igor",
     "Leonardo",
     "Rodrigo",
+    "Gabriel",
+    "Jefferson",
   ];
 
   function sort() {
